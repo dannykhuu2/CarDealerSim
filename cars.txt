@@ -1,0 +1,27 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000 
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Ford       red    SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Bugatti      red    SPORTS  GAS_ENGINE      9.2  450 2WD 300000
+BMW        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+Kia        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Chevy      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Tesla     red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+Mini  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Lagonda  black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+Spyker green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Lada     red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Chrysler      white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      black    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      black   MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  blue  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Jeep    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf red  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
